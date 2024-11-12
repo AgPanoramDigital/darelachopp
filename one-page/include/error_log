@@ -1,0 +1,1 @@
+[31-Oct-2021 19:03:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/darelachoppcom/contato.darelachopp.com.br/one-page/include/phpmailer/PHPMailerAutoload.php on line 45
